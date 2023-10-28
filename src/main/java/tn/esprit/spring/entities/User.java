@@ -1,6 +1,7 @@
 package tn.esprit.spring.entities;
 
 //Comentaire
+/Commentaire SWITCH branch ferjanihejermanagement
 import java.io.Serializable;
 import java.util.Date;
 
